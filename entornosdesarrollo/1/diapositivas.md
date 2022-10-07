@@ -12,12 +12,12 @@ element: class="fragment" data-fragment-index="1"
 ## Entornos de desarrollo
 ---
 ![Entornos de desarrollo](http://jamj2000.github.io/entornosdesarrollo/entornosdesarrollo.png)
-<p><small> IES Luis Vélez de Guevara - Écija - Spain </small></p>
+<p><small> maximofernandez.com </small></p>
 
 
 ## Elementos del desarrollo de software
 
-[![cc-by-sa](http://jamj2000.github.io/entornosdesarrollo/cc-by-sa.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+<p><small> Máximo Fernández Riera</small></p>
 
 
 ## Índice
